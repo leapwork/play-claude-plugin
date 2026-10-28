@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Leapwork Play logo" width="96">
+</p>
+
 # Leapwork Play for Claude Code
 
 Build, run and fix [Playwright](https://playwright.dev/)-based tests in [Leapwork Play](https://leapwork.ai/) without leaving Claude Code. Your agent can create and record tests, run them and whole runlists, debug failures, build agents, and hand bigger jobs to Play's AI workflows. It works with your own Leapwork Play account.
