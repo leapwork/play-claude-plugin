@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="assets/logo.png" alt="Leapwork Play logo" width="96">
 </p>
 
