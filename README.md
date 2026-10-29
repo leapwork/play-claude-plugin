@@ -1,6 +1,7 @@
-<p>
-  <img src="assets/logo.png" alt="Leapwork Play logo" width="96">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/play-logo-light-v-c.svg">
+  <img src="assets/play-logo-dark-v-c.svg" alt="Leapwork Play" width="200">
+</picture>
 
 # Leapwork Play for Claude Code
 
